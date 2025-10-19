@@ -1,0 +1,5 @@
+{
+  "name": "Diabetes Diet Advisor",
+  "description": "An application that takes a user's HbA1c level and provides a personalized diet plan and food suggestions using Gemini.",
+  "requestFramePermissions": []
+}
